@@ -1,6 +1,10 @@
 // Place all the styles related to the NewsItems controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  background: red;
+}
+
 img.bg {
   min-height: 100%;
   min-width: 1024px;
